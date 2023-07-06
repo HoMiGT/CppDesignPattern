@@ -1,5 +1,6 @@
 #include "ChainOfResponsibility(责任链模式).h"
 #include "Command(命令模式).h"
+#include "Flyweight(享元模式).h"
 #include "Interpreter(解释器模式).h"
 #include "Iterator(迭代器模式).h"
 #include "Mediator(中介者模式).h"
@@ -13,12 +14,14 @@
 int main() {
 	//test_chainOfResponsibility(); // 责任链模式
 	//test_command(); // 命令模式
+	//test_flyweight(); // 享元模式
 	//test_interpreter(); // 解释器模式
 	//test_mediator(); // 中介者模式
 	//test_memento(); // 备忘录模式
 	//test_observer(); // 观察者模式
 	//test_state(); // 状态模式
 	//test_strategy(); // 策略模式
-	test_templagemethod(); // 模板方法模式
+	//test_templagemethod(); // 模板方法模式
+	test_visitor(); // 访问者模式
 	return 0;
 }

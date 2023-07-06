@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="ChainOfResponsibility(责任链模式).h" />
     <ClInclude Include="Command(命令模式).h" />
+    <ClInclude Include="Flyweight(享元模式).h" />
     <ClInclude Include="Interpreter(解释器模式).h" />
     <ClInclude Include="Iterator(迭代器模式).h" />
     <ClInclude Include="Mediator(中介者模式).h" />

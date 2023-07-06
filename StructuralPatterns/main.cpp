@@ -3,7 +3,6 @@
 #include "Composite(组合模式).h"
 #include "Decorator(装饰模式).h"
 #include "Facade(外观模式).h"
-#include "Flyweight(享元模式).h"
 #include "Proxy(代理模式).h"
 #include "Filter(过滤器模式).h"
 

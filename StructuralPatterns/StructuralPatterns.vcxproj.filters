@@ -38,9 +38,6 @@
     <ClInclude Include="Composite(组合模式).h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Flyweight(享元模式).h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="Filter(过滤器模式).h">
       <Filter>头文件</Filter>
     </ClInclude>
