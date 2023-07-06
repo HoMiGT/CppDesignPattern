@@ -14,6 +14,7 @@ int main() {
 	//test_chainOfResponsibility(); // 责任链模式
 	//test_command(); // 命令模式
 	//test_interpreter(); // 解释器模式
-	test_mediator(); // 中介者模式
+	//test_mediator(); // 中介者模式
+	test_memento(); // 备忘录模式
 	return 0;
 }
