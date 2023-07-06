@@ -5,6 +5,7 @@
 /// <summary>
 /// 观察者模式
 /// 定义对象之间一对多的依赖关系，当一个对象的状态发生改变时，所有依赖于它的对象都得到通知并自动更新
+/// 适用广播
 /// </summary>
 namespace observer {
 	class Publisher;
