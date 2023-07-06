@@ -16,6 +16,7 @@ int main() {
 	//test_interpreter(); // 解释器模式
 	//test_mediator(); // 中介者模式
 	//test_memento(); // 备忘录模式
-	test_observer(); // 观察者模式
+	//test_observer(); // 观察者模式
+	test_state(); // 状态模式
 	return 0;
 }
