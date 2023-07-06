@@ -54,7 +54,7 @@ namespace observer {
 
 		void setState(const std::string& state) {
 			m_state = state;
-			notify();
+			notify(); 
 		}
 
 	private:
