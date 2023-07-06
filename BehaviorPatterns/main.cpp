@@ -15,6 +15,7 @@ int main() {
 	//test_command(); // 命令模式
 	//test_interpreter(); // 解释器模式
 	//test_mediator(); // 中介者模式
-	test_memento(); // 备忘录模式
+	//test_memento(); // 备忘录模式
+	test_observer(); // 观察者模式
 	return 0;
 }
