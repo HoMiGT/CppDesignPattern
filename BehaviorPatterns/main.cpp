@@ -18,6 +18,7 @@ int main() {
 	//test_memento(); // 备忘录模式
 	//test_observer(); // 观察者模式
 	//test_state(); // 状态模式
-	test_strategy(); // 策略模式
+	//test_strategy(); // 策略模式
+	test_templagemethod(); // 模板方法模式
 	return 0;
 }
